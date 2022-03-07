@@ -73,10 +73,10 @@
     <br />
 
  - **Other [Wireframes, ER Diagrams, API Testing]:**  
-   <img align="left" alt="Figma" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" style="padding-right:10px;" />
-   <img align="left" alt="Lucid Chart" width="26px" src="https://pbs.twimg.com/profile_images/1437485071540232193/BFy122Ej_400x400.png" style="padding-right:10px;" />
-   <img align="left" alt="Postman" width="26px" src="https://user-images.githubusercontent.com/7853266/44114706-9c72dd08-9fd1-11e8-8d9d-6d9d651c75ad.png" style="padding-right:10px;" />
-   <br />
+    <img align="left" alt="Figma" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" style="padding-right:10px;" />
+    <img align="left" alt="Lucid Chart" width="26px" src="https://pbs.twimg.com/profile_images/1437485071540232193/BFy122Ej_400x400.png" style="padding-right:10px;" />
+    <img align="left" alt="Postman" width="26px" src="https://user-images.githubusercontent.com/7853266/44114706-9c72dd08-9fd1-11e8-8d9d-6d9d651c75ad.png" style="padding-right:10px;" />
+
    <br />
 <!--    <img align="left" alt="MySQL" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Database-mysql.svg" style="padding-right:10px;" /> -->
    
