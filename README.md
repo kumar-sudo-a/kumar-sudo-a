@@ -1,7 +1,7 @@
 # Hi there, I'm Sharath kumar - aka [kumar-sudo-a](https://github.com/kumar-sudo-a) 👋🏼 
 ## I'm a self-taught Full Stack Software Developer, living in Tampa, FL, USA!!
 
-About me
+➡️ About me
 - 💼 Software Engineer at [DART (Dallas Area Rapid Transit)](https://www.dart.org/)
 
 - 🔭 Take a look at some of my work and contributions to open-source projects on GitHub repos
@@ -71,8 +71,8 @@ About me
     <img align="left" alt="Oracle" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" style="padding-right:10px;" />
     <img align="left" alt="Mysql" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
     <br />
- 
-- **Other [Wireframes, ER Diagrams, API Testing]:**  
+
+ - **Other [Wireframes, ER Diagrams, API Testing]:**  
    <img align="left" alt="Figma" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" style="padding-right:10px;" />
    <img align="left" alt="Lucid Chart" width="26px" src="https://pbs.twimg.com/profile_images/1437485071540232193/BFy122Ej_400x400.png" style="padding-right:10px;" />
    <img align="left" alt="Postman" width="26px" src="https://user-images.githubusercontent.com/7853266/44114706-9c72dd08-9fd1-11e8-8d9d-6d9d651c75ad.png" style="padding-right:10px;" />
