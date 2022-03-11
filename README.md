@@ -38,7 +38,7 @@
  - **Source Code & Version Control Management:**  
    <img align="left" alt="Git" width="26px" height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
    <img align="left" alt="GitHub" width="26px" height="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
-   <img align="left" alt="GitLab" width="32px" height="26px" src="https://driftt.imgix.net/https%3A%2F%2Fdriftt.imgix.net%2Fhttps%253A%252F%252Fs3.amazonaws.com%252Fcustomer-api-avatars-prod%252F85489%252F307fa4f7f37831684fe3e3ee33ab97d3r2wbh3tdbf3w%3Ffit%3Dmax%26fm%3Dpng%26h%3D200%26w%3D200%26s%3D0b63e6b7b7c404889b1225e385b58178?fit=max&fm=png&h=200&w=200&s=b81290fd6e2958430bf4456d4dcafb58" style="padding-right:10px;" />
+   <img align="left" alt="GitLab" width="32px" height="34px" src="https://driftt.imgix.net/https%3A%2F%2Fdriftt.imgix.net%2Fhttps%253A%252F%252Fs3.amazonaws.com%252Fcustomer-api-avatars-prod%252F85489%252F307fa4f7f37831684fe3e3ee33ab97d3r2wbh3tdbf3w%3Ffit%3Dmax%26fm%3Dpng%26h%3D200%26w%3D200%26s%3D0b63e6b7b7c404889b1225e385b58178?fit=max&fm=png&h=200&w=200&s=b81290fd6e2958430bf4456d4dcafb58" style="padding-right:10px;" />
    <img align="left" alt="Bitbucket" width="26px" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Bitbucket-blue-logomark-only.svg" style="padding-right:10px;" />
    <br />
 
