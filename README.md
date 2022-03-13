@@ -68,7 +68,7 @@
     <br />
 
  - **DBMS:**  
-    <img align="left" alt="Oracle" width="44px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" style="padding-right:10px;" />
+    <img align="left" align="top" alt="Oracle" width="44px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" style="padding-right:10px;" />
     <img align="left" alt="Mysql" width="26px" height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
     <br />
     
