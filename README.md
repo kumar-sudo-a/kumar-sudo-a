@@ -23,8 +23,8 @@
 ### 💪🏻 Professional Expertise working with Tools and Technologies:
  - **Languages & Frameworks:**    
     <img align="left" alt="Java" width="26px" height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:10px;" />
-    <img align="left" alt="Java" width="26px" height="26px" src="https://spring.io/images/projects/spring-edf462fec682b9d48cf628eaf9e19521.svg" style="padding-right:10px;" />
-    <img align="left" alt="Spring" width="26px" height="26px" src="https://pivotal.gallerycdn.vsassets.io/extensions/pivotal/vscode-boot-dev-pack/0.1.0/1629148309593/Microsoft.VisualStudio.Services.Icons.Default" style="padding-right:10px;" />
+    <img align="left" alt="Spring" width="26px" height="26px" src="https://spring.io/images/projects/spring-edf462fec682b9d48cf628eaf9e19521.svg" style="padding-right:10px;" />
+    <img align="left" alt="Spring-boot" width="26px" height="26px" src="https://pivotal.gallerycdn.vsassets.io/extensions/pivotal/vscode-boot-dev-pack/0.1.0/1629148309593/Microsoft.VisualStudio.Services.Icons.Default" style="padding-right:10px;" />
     <img align="left" alt="JavaScript" width="26px" height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
     <img align="left" alt="Angular" width="26px" height="26px" src="https://angular.io/assets/images/logos/angularjs/AngularJS-Shield.svg" style="padding-right:10px;" />
     <img align="left" alt="React" width="26px" height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
