@@ -71,7 +71,7 @@
     <img align="left" alt="Oracle" width="44px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" style="padding-right:10px;" />
     <img align="left" alt="Mysql" width="26px" height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
     <br />
-
+    
  - **Other [Wireframes, ER Diagrams, API Testing, Unit Testing(TDD)]:**  
     <img align="left" alt="Figma" width="26px" height="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" style="padding-right:10px;" />
     <img align="left" alt="Lucid Chart" width="26px" height="26px" src="https://pbs.twimg.com/profile_images/1437485071540232193/BFy122Ej_400x400.png" style="padding-right:10px;" />
