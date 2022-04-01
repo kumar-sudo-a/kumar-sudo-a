@@ -32,6 +32,7 @@
     <img align="left" alt="JSON" width="26px" height="26px" src="https://cdn-icons-png.flaticon.com/512/136/136525.png" style="padding-right:10px;" />
     <img align="left" alt="HTML5" width="26px" height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
     <img align="left" alt="CSS3" width="26px" height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
+    <img align="left" alt="Mockito" width="26px" height="26px" src="https://img.stackshare.io/service/2021/4y634TJm_400x400.jpg" style="padding-right:10px;" />
     <img align="left" alt="Sass" width="26px" height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />
     <br />
 
@@ -46,7 +47,7 @@
     <img align="left" alt="Jenkins" width="26px" height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" style="padding-right:10px;" />
     <img align="left" alt="GitLab" width="26px" height="26px" src="https://about.gitlab.com/images/icons/logos/slp-icon.svg" style="padding-right:10px;" />
     <img align="left" alt="Ansible" width="26px" height="26px" src="https://cdn.icon-icons.com/icons2/2148/PNG/512/ansible_icon_132595.png" style="padding-right:10px;" />
-    <img align="left" alt="Docker" width="26px" height="26px" src="https://www.docker.com/sites/default/files/d8/styles/role_icon/public/2019-07/Moby-logo.png?itok=sYH_JEaJ" style="padding-right:10px;" />
+    <img align="left" alt="Docker" width="26px" height="26px" src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png.webp" style="padding-right:10px;" />
     <br />
 
  - **IDE's:**  
@@ -54,6 +55,7 @@
     <img align="left" alt="IntelliJ IDEA" width="26px" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" style="padding-right:10px;" />
     <img align="left" alt="Eclipse" width="26px" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Eclipse-SVG.svg" style="padding-right:10px;" />
     <img align="left" alt="Oracle SQL Developer" width="26px" height="26px" src="https://upload.wikimedia.org/wikipedia/en/thumb/6/68/Oracle_SQL_Developer_logo.svg/800px-Oracle_SQL_Developer_logo.svg.png" style="padding-right:10px;" />
+    <img align="left" alt="Squirrel" width="26px" height="26px" src="https://vulndetect.org/assets/uploads/files/1549829294584-acorn.ico" style="padding-right:10px;" />
     <img align="left" alt="MySQL WorkBench" width="26px" height="26px" src="https://pbs.twimg.com/profile_images/621577553376100352/lvR3kClO_400x400.png" style="padding-right:10px;" />
     <br />
 
