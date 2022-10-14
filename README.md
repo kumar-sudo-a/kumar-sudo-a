@@ -32,7 +32,7 @@
   <img align="left" alt="JavaScript" width="26px" height="26px" src="images/LanguagesAndFrameworks/javascript.svg" style="padding-right:10px;" />
   <img align="left" alt="Angular" width="26px" height="26px" src="images/LanguagesAndFrameworks/angularJS.svg" style="padding-right:10px;" />
   <img align="left" alt="React" width="26px" height="26px" src="images/LanguagesAndFrameworks/react.svg" style="padding-right:10px;" />
-  <img align="left" alt="SQL" width="26px" height="26px" src="images/LanguagesAndFrameworks/sql.svg" style="padding-right:10px;" />
+  <img align="left" alt="SQL" width="26px" height="26px" src="images/LanguagesAndFrameworks/sql.png" style="padding-right:10px;" />
   <img align="left" alt="JSON" width="26px" height="26px" src="images/LanguagesAndFrameworks/json.png" style="padding-right:10px;" />
   <img align="left" alt="HTML5" width="26px" height="26px" src="images/LanguagesAndFrameworks/html5.svg" style="padding-right:10px;" />
   <img align="left" alt="CSS3" width="26px" height="26px" src="images/LanguagesAndFrameworks/css3.svg" style="padding-right:10px;" />
