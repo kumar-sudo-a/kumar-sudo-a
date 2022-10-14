@@ -32,7 +32,7 @@
   <img align="left" alt="JavaScript" width="26px" height="26px" src="images/LanguagesAndFrameworks/javascript.svg" style="padding-right:10px;" />
   <img align="left" alt="Angular" width="26px" height="26px" src="images/LanguagesAndFrameworks/angularJS.svg" style="padding-right:10px;" />
   <img align="left" alt="React" width="26px" height="26px" src="images/LanguagesAndFrameworks/react.svg" style="padding-right:10px;" />
-  <img align="left" alt="SQL" width="26px" height="26px" src="images/LanguagesAndFrameworks/sql.svg.svg" style="padding-right:10px;" />
+  <img align="left" alt="SQL" width="26px" height="26px" src="images/LanguagesAndFrameworks/sql.svg" style="padding-right:10px;" />
   <img align="left" alt="JSON" width="26px" height="26px" src="images/LanguagesAndFrameworks/json.png" style="padding-right:10px;" />
   <img align="left" alt="HTML5" width="26px" height="26px" src="images/LanguagesAndFrameworks/html5.svg" style="padding-right:10px;" />
   <img align="left" alt="CSS3" width="26px" height="26px" src="images/LanguagesAndFrameworks/css3.svg" style="padding-right:10px;" />
@@ -43,45 +43,46 @@
 - **Source Code & Version Control Management:**  
   <img align="left" alt="Git" width="26px" height="26px" src="images/SourceCodeAndVersionControlManagement/git.svg" style="padding-right:10px;" />
   <img align="left" alt="GitHub" width="26px" height="26px" src="images/SourceCodeAndVersionControlManagement/github.png" style="padding-right:10px;" />
-  <img align="left" alt="GitLab" width="32px" height="34px" src="gitlab.png" style="padding-right:10px;" />
+  <img align="left" alt="GitLab" width="32px" height="34px" src="images/SourceCodeAndVersionControlManagement/gitlab.png" style="padding-right:10px;" />
   <img align="left" alt="Bitbucket" width="26px" height="26px" src="images/SourceCodeAndVersionControlManagement/bitbucket.svg" style="padding-right:10px;" />
   <br />
 
 - **CI/CD:**  
-   <img align="left" alt="Jenkins" width="26px" height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" style="padding-right:10px;" />
-  <img align="left" alt="GitLab" width="26px" height="26px" src="https://about.gitlab.com/images/icons/logos/slp-icon.svg" style="padding-right:10px;" />
-  <img align="left" alt="Ansible" width="26px" height="26px" src="https://cdn.icon-icons.com/icons2/2148/PNG/512/ansible_icon_132595.png" style="padding-right:10px;" />
-  <img align="left" alt="Docker" width="26px" height="26px" src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png.webp" style="padding-right:10px;" />
+   <img align="left" alt="Jenkins" width="26px" height="26px" src="images/CICD/ansible.png" style="padding-right:10px;" />
+  <img align="left" alt="GitLab" width="26px" height="26px" src="images/CICD/docker.png" style="padding-right:10px;" />
+  <img align="left" alt="Ansible" width="26px" height="26px" src="images/CICD/gitlab.svg" style="padding-right:10px;" />
+  <img align="left" alt="Docker" width="26px" height="26px" src="images/CICD/jenkins.svg" style="padding-right:10px;" />
   <br />
 
 - **IDE's:**  
-   <img align="left" alt="Visual Studio Code" width="26px" height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-  <img align="left" alt="IntelliJ IDEA" width="26px" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" style="padding-right:10px;" />
-  <img align="left" alt="Eclipse" width="26px" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Eclipse-SVG.svg" style="padding-right:10px;" />
-  <img align="left" alt="Oracle SQL Developer" width="26px" height="26px" src="https://upload.wikimedia.org/wikipedia/en/thumb/6/68/Oracle_SQL_Developer_logo.svg/800px-Oracle_SQL_Developer_logo.svg.png" style="padding-right:10px;" />
-  <img align="left" alt="Squirrel" width="26px" height="26px" src="https://vulndetect.org/assets/uploads/files/1549829294584-acorn.ico" style="padding-right:10px;" />
-  <img align="left" alt="MySQL WorkBench" width="26px" height="26px" src="https://pbs.twimg.com/profile_images/621577553376100352/lvR3kClO_400x400.png" style="padding-right:10px;" />
+   <img align="left" alt="Visual Studio Code" width="26px" height="26px" src="images/IDEs/visualstudiocode.svg" style="padding-right:10px;" />
+  <img align="left" alt="IntelliJ IDEA" width="26px" height="26px" src="images/IDEs/intelliJIDEA.svg" style="padding-right:10px;" />
+  <img align="left" alt="Eclipse" width="26px" height="26px" src="images/IDEs/eclipse.svg" style="padding-right:10px;" />
+  <img align="left" alt="Oracle SQL Developer" width="26px" height="26px" src="images/IDEs/oracleSQLdeveloper.png" style="padding-right:10px;" />
+  <img align="left" alt="Squirrel" width="26px" height="26px" src="images/IDEs/squirrel.acorn.ico" style="padding-right:10px;" />
+  <img align="left" alt="MySQL WorkBench" width="26px" height="26px" src="images/IDEs/mySQLworkbench.png" style="padding-right:10px;" />
   <br />
 
 - **Platforms:**  
-   <img align="left" alt="Linux" width="26px" height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="padding-right:10px;" />
-  <img align="left" alt="Ubuntu" width="26px" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Logo-ubuntu_cof-orange-hex.svg" style="padding-right:10px;" />
-  <img align="left" alt="RedHat" width="26px" height="26px" src="https://cdn.worldvectorlogo.com/logos/red-hat.svg" style="padding-right:10px;" />
-  <img align="left" alt="CentOS" width="26px" height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original.svg" style="padding-right:10px;" />
-  <img align="left" alt="Apple" width="26px" height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" style="padding-right:10px;" />
-  <img align="left" alt="Terminal" width="26px" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/d/da/GNOME_Terminal_icon_2019.svg" style="padding-right:10px;" />
-  <img align="left" alt="Microsoft Windows" width="26px" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" style="padding-right:10px;" />
+   <img align="left" alt="Linux" width="26px" height="26px" src="images/Platforms/linux.svg" style="padding-right:10px;" />
+  <img align="left" alt="Ubuntu" width="26px" height="26px" src="images/Platforms/ubuntu.svg" style="padding-right:10px;" />
+  <img align="left" alt="RedHat" width="26px" height="26px" src="images/Platforms/redhat.svg" style="padding-right:10px;" />
+  <img align="left" alt="CentOS" width="26px" height="26px" src="images/Platforms/centOS.svg" style="padding-right:10px;" />
+  <img align="left" alt="Apple" width="26px" height="26px" src="images/Platforms/apple.svg" style="padding-right:10px;" />
+  <img align="left" alt="Terminal" width="26px" height="26px" src="images/Platforms/terminal.svg" style="padding-right:10px;" />
+  <img align="left" alt="Microsoft Windows" width="26px" height="26px" src="images/Platforms/microsoftWindows.svg" style="padding-right:10px;" />
   <br />
 
 - **DBMS:**  
-   <img align="left" align="top" alt="Oracle" width="44px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" style="padding-right:10px;" />
-  <img align="left" alt="Mysql" width="26px" height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
+   <img align="left" align="top" alt="Oracle" width="44px" height="40px" src="images/DBMS/mysqlserver.svg" style="padding-right:10px;" />
+  <img align="left" alt="Mysql" width="26px" height="26px" src="images/DBMS/oracle.svg" style="padding-right:10px;" />
   <br />
+
 - **Other [Wireframes, ER Diagrams, API Testing, Unit Testing(TDD)]:**  
-   <img align="left" alt="Figma" width="26px" height="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" style="padding-right:10px;" />
-  <img align="left" alt="Lucid Chart" width="26px" height="26px" src="https://play-lh.googleusercontent.com/o4vT3StM8rw3Hn15GMtLjuTA6VUWt6jxDvV4d5ahKj9E9nGaLut06tM83NESuTBr-t0=w240-h480-rw" style="padding-right:10px;" />
-  <img align="left" alt="Postman" width="26px" height="26px" src="https://user-images.githubusercontent.com/7853266/44114706-9c72dd08-9fd1-11e8-8d9d-6d9d651c75ad.png" style="padding-right:10px;" />
-  <img align="left" alt="Junit" width="42px" height="26px" src="https://junit.org/junit4/images/junit-logo.png" style="padding-right:10px;" />
+   <img align="left" alt="Figma" width="26px" height="26px" src="images\Other\figma.png" style="padding-right:10px;" />
+  <img align="left" alt="Lucid Chart" width="26px" height="26px" src="images\Other\junit-logo.png" style="padding-right:10px;" />
+  <img align="left" alt="Postman" width="26px" height="26px" src="images\Other\lucidchart.png" style="padding-right:10px;" />
+  <img align="left" alt="Junit" width="42px" height="26px" src="images\Other\postman.png" style="padding-right:10px;" />
   <br />
 
 ---
@@ -119,7 +120,7 @@
 
 ### 📕 Books I read:
 
-| <img align="centre" alt="html-and-css-by-jon-duckett" width="200" height="260" src="https://img.thriftbooks.com/api/images/l/42286e8944500ef27a6e5a777b7b95c27953d150.jpg" style="padding-right:2px;" /> | <img align="centre" alt="javascript-and-jquery-by-jon-duckett" width="200" height="260" src="https://img.thriftbooks.com/api/images/m/daed4f53240a9f02dcaf9d5fd2a6b920788f327e.jpg" style="padding-right:2px;" /> | <img align="centre" alt="eloquent-javacript" width="200" height="260" src="https://eloquentjavascript.net/img/cover.jpg" style="padding-right:2px;" /> | <img align="centre" alt="OCA-808" width="200" height="260" src="https://img.thriftbooks.com/api/images/l/f421886bda52d5af9ce68294cf9ca54e2207b50b.jpg" style="padding-right:2px;" /> |
+| <img align="centre" alt="html-and-css-by-jon-duckett" width="200" height="260" src="images\Books\html-and-css-by-jon-duckett.jpg" style="padding-right:2px;" /> | <img align="centre" alt="javascript-and-jquery-by-jon-duckett" width="200" height="260" src="images\Books\javascript-and-jquery-by-jon-duckett.jpg" style="padding-right:2px;" /> | <img align="centre" alt="eloquent-javacript" width="200" height="260" src="images\Books\eloquent-javacript.jpg" style="padding-right:2px;" /> | <img align="centre" alt="OCA-808" width="200" height="260" src="images\Books\OCA-808.jpg" style="padding-right:2px;" /> |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 
 ---
