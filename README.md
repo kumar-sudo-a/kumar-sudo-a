@@ -74,10 +74,10 @@
   <br />
 
 - **DBMS:**  
-   <img align="left" align="top" alt="Oracle" width="44px" height="40px" src="images/DBMS/mysqlserver.svg" style="padding-right:10px;" />
-  <img align="left" alt="Mysql" width="26px" height="26px" src="images/DBMS/oracle.svg" style="padding-right:10px;" />
+   <img align="left" align="top" alt="Mysqlserver" width="44px" height="26px" src="images/DBMS/mysqlserver.svg" style="padding-right:10px;" />
+  <img align="left" alt="Oracle" width="44px" height="38px" src="images/DBMS/oracle.svg" style="padding-right:10px;" />
   <br />
-
+  
 - **Other [Wireframes, ER Diagrams, API Testing, Unit Testing(TDD)]:**  
    <img align="left" alt="Figma" width="26px" height="26px" src="images\Other\figma.png" style="padding-right:10px;" />
   <img align="left" alt="Lucid Chart" width="26px" height="26px" src="images\Other\junit-logo.png" style="padding-right:10px;" />
