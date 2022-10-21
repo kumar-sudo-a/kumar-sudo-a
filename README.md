@@ -1,6 +1,6 @@
 # Hi there, I'm Sharath kumar - aka [kumar-sudo-a](https://github.com/kumar-sudo-a) 👋🏼
 
-## Checkout my own Portfolio Website <img align="justify" alt="Git" width="32px" height="30px" src="https://user-images.githubusercontent.com/78719857/197220696-27cd8b82-048e-4356-85d0-1e10e11eae28.png"/><a href="sharathkumaralwala.com" target="_blank">sharathkumaralwala.com</a> 🔗
+## Checkout my own Portfolio Website <img align="justify" alt="Git" width="32px" height="30px" src="https://user-images.githubusercontent.com/78719857/197220696-27cd8b82-048e-4356-85d0-1e10e11eae28.png"/><a>[https://sharathkumaralwala.com](https://sharathkumaralwala.com/)<a/> 🔗
 
 ## I'm a self-taught Full Stack Software Developer, living in Tampa, FL, USA!!
 
