@@ -6,7 +6,7 @@
 
 ## 💼 I'm a self-taught Full Stack Software Developer, living in Tampa, FL, USA!!
 
-<!---💼 Software Engineer at [DART (Dallas Area Rapid Transit)](https://www.dart.org/)--->
+<!---💼 Software  Engineer at [DART (Dallas Area Rapid Transit)](https://www.dart.org/)--->
 
 - 🔭 Take a look at some of my work and contributions to open-source projects on GitHub repos
 
