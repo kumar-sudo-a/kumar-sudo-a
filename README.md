@@ -116,9 +116,12 @@
 </a>
 -->
 
-| <a href="https://github.com/kumar-sudo-a/transitime"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kumar-sudo-a&repo=transitime&theme=buefy" /></a>                       | <a href="https://github.com/kumar-sudo-a/web-development-projects"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kumar-sudo-a&repo=web-development-projects&theme=buefy" /></a> |
+| <a href="https://github.com/kumar-sudo-a/transitime"><img align="center" src= "https://github-readme-stats.vercel.app/api/pin/?username=kumar-sudo-a&repo=transitime&theme=buefy" /></a>                       | <a href="https://github.com/kumar-sudo-a/Core-Java-Projects"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kumar-sudo-a&repo=Core-Java-Projects&theme=buefy" /></a> |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <a href="https://github.com/kumar-sudo-a/user-registration-web"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kumar-sudo-a&repo=user-registration-web&theme=buefy" /></a> | <a href="https://github.com/kumar-sudo-a/user-registration-rest"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kumar-sudo-a&repo=user-registration-rest&theme=buefy" /></a>     |
+| <a href="https://github.com/kumar-sudo-a/web-development-projects"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kumar-sudo-a&repo=web-development-projects&theme=buefy" /></a> | <a href="https://github.com/kumar-sudo-a/kumar-sudo-a.github.io"><img align="center" src= "https://github-readme-stats.vercel.app/api/pin/?username=kumar-sudo-a&repo=kumar-sudo-a.github.io&theme=buefy" /></a>                       
+   
+   
 
 ---
 
